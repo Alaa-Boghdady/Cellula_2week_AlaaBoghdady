@@ -1,0 +1,1 @@
+Not trained in this environment. Run export cell at end of notebooks/LSTM/LSTM_Training.ipynb to generate lstm_model.keras, tokenizer.json, labels.json and config.json here. Do not submit a fake model.

@@ -1,0 +1,5 @@
+{
+  "max_len": 44,
+  "input_format": "query {query} image descriptions {image_description}",
+  "dataset": "augmented provisional"
+}

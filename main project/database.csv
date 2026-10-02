@@ -1,0 +1,15 @@
+timestamp_utc,input_type,user_text,image_caption,classification,confidence
+2026-10-02T19:28:19.860662+00:00,text,You are stupid and I hate you.,,Safe,0.5724
+2026-10-02T21:32:42.485502+00:00,image,,a security camera on a pole in the city,Safe,0.4585
+2026-10-02T21:33:55.672756+00:00,image,This camera is monitoring the street for public safety.,a security camera on a pole in the city,Unknown S-Type,0.6437
+2026-10-02T21:35:47.153452+00:00,text,Have a wonderful day. I hope everything goes well for you.,,Safe,0.4224
+2026-10-02T21:36:18.425026+00:00,text,You are stupid and disgusting. I hate you.,,Safe,0.5808
+2026-10-02T21:37:05.314933+00:00,text,I hate you. You are an idiot and a horrible person.,,Safe,0.4653
+2026-10-02T21:40:06.075298+00:00,text,I hate you. You are an idiot and a horrible person.,,Safe,0.4653
+2026-10-02T21:40:09.844990+00:00,text,I hate you. You are an idiot and a horrible person.,,Safe,0.4653
+2026-10-02T21:40:12.677092+00:00,text,I hate you. You are an idiot and a horrible person.,,Safe,0.4653
+2026-10-02T21:41:31.483192+00:00,text,"A man attacked another person with a knife and killed him.
+",,Violent Crimes,0.4234
+2026-10-02T21:42:40.059834+00:00,text,I went to the supermarket this morning and bought some bread and milk.,,Safe,0.6173
+2026-10-02T21:43:09.614653+00:00,text,The person is thinking about hurting themselves and needs immediate help.,,Suicide & Self-Harm,0.2686
+2026-10-02T21:45:26.560539+00:00,image,,a woman in a headscar is shown in this undre,Safe,0.4659
